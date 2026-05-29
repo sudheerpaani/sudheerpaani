@@ -1,28 +1,39 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=240&section=header&text=SUDHEER%20PENDEM&fontSize=50&animation=twinkling&fontColor=00FFCC&theme=dark" width="100%" />
-</p>
+# Hi, I'm Sudheer Pendem 👋
+### Cyber Security Analyst | SOC Analyst | SIEM Monitoring Specialist
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3500&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=CYBER+SECURITY+ANALYST;SIEM+MONITORING+SPECIALIST;INCIDENT+RESPONSE+EXPERT;PROACTIVE+THREAT+HUNTER" alt="Typing SVG" /></a>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/sudheer-paani" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:sudheerpaani2426@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-FF5733?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SLA_Compliance-98.5%25-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/False_Positive_Reduction-25%25-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Environment-24x7_SNOC%2FSOC-purple?style=flat-square" />
-</p>
+A results-driven **Cyber Security Analyst** with over 2 years of experience protecting enterprise telecom infrastructure within Vodafone Idea's 24x7 SNOC/SOC environment. Expert at converting raw security logs into actionable defense strategies, tuning SIEM filters, and managing high-priority incident lifecycles.
 
 ---
 
-## ⚡ Executive Brief
-> **Securing enterprise telecom infrastructure with predictive analysis, rapid containment, and defensive infrastructure tuning.** I am a specialized **Cyber Security Analyst** with 2+ years of enterprise experience inside Vodafone Idea'
+### 📊 Key Performance Metrics
+* **98.5% SLA Compliance** sustained across P1/P2 critical security incidents.
+* **25% Reduction** in false-positive alerts achieved through custom rule optimization.
+* **24x7 Enterprise Monitoring** of firewalls, endpoints, IPS, and email gateways.
+
+---
+
+### 🛠️ Security Matrix & Ecosystem
+
+#### 🔍 SIEM & Analytics
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white) ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white) ![IBM QRadar](https://img.shields.io/badge/IBM_QRadar-1F70C1?style=for-the-badge&logo=IBM&logoColor=white) ![Google Chronicle](https://img.shields.io/badge/Google_Chronicle-4285F4?style=for-the-badge&logo=Google&logoColor=white)
+
+#### 🔒 Endpoint & Email Security
+![CrowdStrike](https://img.shields.io/badge/CrowdStrike-FC0000?style=for-the-badge&logo=CrowdStrike&logoColor=white) ![SentinelOne](https://img.shields.io/badge/SentinelOne-000000?style=for-the-badge&logo=SentinelOne&logoColor=white) ![Microsoft Defender](https://img.shields.io/badge/Microsoft_Defender-0078D4?style=for-the-badge&logo=Windows&logoColor=white) ![Ironscales](https://img.shields.io/badge/Ironscales-00D2C4?style=for-the-badge&logoColor=white)
+
+#### 🌐 Network Defense & Operations
+![Palo Alto](https://img.shields.io/badge/Palo_Alto-005A9C?style=for-the-badge&logo=Palo-Alto-Networks&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black) ![ServiceNow](https://img.shields.io/badge/ServiceNow-293E40?style=for-the-badge&logo=ServiceNow&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+
+---
+
+### 🎯 Strategic Objectives (2026)
+* 🔬 **Advanced Research:** Custom playbook engineering for zero-day malware variants.
+* ☁️ **Cloud Deep Dive:** Securing cloud infrastructure across AWS and Microsoft Azure.
+* ⚡ **Automation:** Standardizing automated incident containment playbooks.
+
+---
+
+### 📈 Technical Metrics & Activity
+
+![Sudheer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudheerpaani&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
+
+![Top Langs](
