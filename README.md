@@ -26,7 +26,7 @@ A results-driven Cyber Security Analyst with over 2 years of experience protecti
 ---
 
 ### 📊 GitHub Stats & Trophy Room
-*(These dynamic cards will automatically update as you use GitHub!)*
+
 
 ![Sudheer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudheerpaani&show_icons=true&theme=tokyonight&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudheerpaani&layout=compact&theme=tokyonight)
